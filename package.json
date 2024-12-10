@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "react-router-dom": "^7.0.2",
-    "xlsx": "^0.18.5"
-  }
-}
